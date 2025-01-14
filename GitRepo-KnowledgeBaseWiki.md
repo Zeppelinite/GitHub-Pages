@@ -1,7 +1,5 @@
 # A Personal Git Repo as a Knowledge Base Wiki - DEV Community
-
-A Personal Git Repo as a Knowledge Base Wiki
-============================================
+![image](https://github.com/user-attachments/assets/9b4ff48d-38ac-4dae-8159-97eb07234f68)
 
 [#productivity](/t/productivity) [#writing](/t/writing) [#markdown](/t/markdown) [#documentation](/t/documentation)
 
