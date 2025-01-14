@@ -2,6 +2,7 @@
 ![image](https://github.com/user-attachments/assets/9b4ff48d-38ac-4dae-8159-97eb07234f68)
 
 [Article](https://dev.to/adam_b/a-personal-git-repo-as-a-knowledge-base-wiki-j51) 
+
 [#productivity](/t/productivity) [#writing](/t/writing) [#markdown](/t/markdown) [#documentation](/t/documentation)
 
 While it's not something that everyone likes to do, I've always found it essential to write notes. There are the project-specific notes that only have relevance within a particular workplace and are of course confidential, but then the stacks of notes that cover everything from the content of the training course you last went on to "what's the command-line way to add a new project again?" - and that second category is the one we're going to discuss here.
