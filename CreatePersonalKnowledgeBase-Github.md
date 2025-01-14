@@ -1,44 +1,5 @@
 # CreatePersonalKnowledgeBase-Github
 Creating a Personal Knowledge Base on Github
-============================================
-
-[
-
-![](https://miro.medium.com/v2/resize:fill:55:55/1*MlQJVtK6aKjKWPT88ivZvw.png)
-
-
-
-
-
-](/?source=post_page---byline--d1d8bb9222a4--------------------------------)
-
-[George Marklow](/?source=post_page---byline--d1d8bb9222a4--------------------------------)
-
-·
-
-[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F9682c5ebe339&operation=register&redirect=https%3A%2F%2Fmarklowg.medium.com%2Fcreating-a-personal-knowledgebase-on-github-d1d8bb9222a4&user=George+Marklow&userId=9682c5ebe339&source=post_page-9682c5ebe339--byline--d1d8bb9222a4---------------------post_header-----------)
-
-4 min read
-
-·
-
-Dec 3, 2020
-
-2
-
-[
-
-Listen
-
-
-
-
-
-
-
-](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Dd1d8bb9222a4&operation=register&redirect=https%3A%2F%2Fmarklowg.medium.com%2Fcreating-a-personal-knowledgebase-on-github-d1d8bb9222a4&source=---header_actions--d1d8bb9222a4---------------------post_audio_button-----------)
-
-Share
 
 Github isn’t just for coders — as the amount of information around us grows exponentially, everybody can be helped by a personal knowledge base.
 
