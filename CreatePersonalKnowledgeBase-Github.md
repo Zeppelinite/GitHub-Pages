@@ -1,5 +1,4 @@
-# CreatePersonalKnowledgeBase-Github
-Creating a Personal Knowledge Base on Github
+# Creating a Personal Knowledge Base on Github
 
 Github isn’t just for coders — as the amount of information around us grows exponentially, everybody can be helped by a personal knowledge base.
 
