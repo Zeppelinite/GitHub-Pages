@@ -1,5 +1,4 @@
-# HowTo_LinuxCNC
-     How to get started with a Linux CNC                       
+# How to get started with a Linux CNC                       
 
 [Skip to content](#main)
 
