@@ -1,6 +1,4 @@
-# BaSH_Cheatsheet
- Bash scripting cheatsheet
-
+# Bash scripting cheatsheet
 [Devhints.io](/)
 
 *   [Edit](https://github.com/rstacruz/cheatsheets/blob/master/bash.md)
